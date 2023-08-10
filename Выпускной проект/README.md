@@ -2,11 +2,11 @@
 
 Используя все полученные навыки в курсе выполнить буткемп-проект. 
 
-## Часть I: [Банки: анализ оттока клиентов.Портрет лояльного клиента](https://github.com/Aringol/Data_analyst/blob/main/12_graduation_project/bank_churn_graduate.ipynb)
+## Часть I: [Банки: анализ оттока клиентов.Портрет лояльного клиента](https://github.com/NVZakharov11/data_analyst_practicum/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/Project_bank.ipynb)
 
-[Презентация](https://disk.yandex.ru/i/6eiQnaOJQ_--SA)
+[Презентация](https://disk.yandex.ru/i/RBYNfepZvERBoA)
 
-[Дашборд](https://public.tableau.com/views/_16842511730040/Bank_dash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Дашборд](https://public.tableau.com/views/Bank_16892498700100/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Цель исследования
 Дать рекомендации отделу маркетинга по продуктам для привлечения лояльных клиентов
@@ -28,7 +28,7 @@
 *pandas, numpy, matplotlib, seaborn, scikit learn, scipy*
 
 
-## Часть II: [A/B-тестирование](https://github.com/Aringol/Data_analyst/blob/main/12_graduation_project/%20A-B_graduate.ipynb)
+## Часть II: [A/B-тестирование](https://github.com/NVZakharov11/data_analyst_practicum/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/Project_AB.ipynb)
 
 ### Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
@@ -37,7 +37,7 @@
 
 *pandas, numpy, matplotlib, seaborn, math, datetime, scipy*
 
-## Часть III: [SQL](https://github.com/Aringol/Data_analyst/blob/main/12_graduation_project/SQL_graduate.ipynb)
+## Часть III: [SQL](https://github.com/NVZakharov11/data_analyst_practicum/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/SQL_Books.ipynb)
 
 Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские
 обзоры книг. 
