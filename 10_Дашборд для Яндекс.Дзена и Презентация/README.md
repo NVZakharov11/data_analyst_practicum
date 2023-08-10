@@ -1,6 +1,6 @@
 # Анализ пользовательского взаимодействия с карточками статей в Яндекс.Дзен
 
-[Ссылка на дашборд](https://public.tableau.com/views/nv_zaharov_yandex_dzen/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Ссылка на дашборд](https://public.tableau.com/app/profile/nikita.zaharov/viz/nv_zaharov_yandex_dzen/Dashboard2)
 
 [Ссылка на презентацию](https://disk.yandex.ru/i/nytqRcLY1tIAkA)
 
